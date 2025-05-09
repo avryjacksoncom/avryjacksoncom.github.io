@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Avry Jackson
+description: Documentation for my project
+# logo: "unamed.png"  # optional logo
 theme: just-the-docs
+color_scheme: "dark"
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  My Github Profile: https://github.com/avryjacksoncom
+
+nav:
+  - title: "Projects"
+    url: /projects
